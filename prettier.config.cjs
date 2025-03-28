@@ -3,6 +3,7 @@ module.exports = {
 	arrowParens: 'always',
 	bracketSameLine: true,
 	bracketSpacing: true,
+	htmlWhitespaceSensitivity: 'ignore',
 	endOfLine: 'auto',
 	printWidth: 120,
 	singleAttributePerLine: true,
