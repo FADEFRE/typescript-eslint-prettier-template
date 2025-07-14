@@ -1,0 +1,18 @@
+{
+	"arrowParens": "always",
+	"bracketSameLine": true,
+	"bracketSpacing": true,
+	"endOfLine": "auto",
+	"htmlWhitespaceSensitivity": "ignore",
+	"importOrder": ["^types/(.*)$", "^commands/(.*)$", "^[./]"],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true,
+	"organizeImportsSkipDestructiveCodeActions": true,
+	"plugins": ["prettier-plugin-organize-imports", "prettier-plugin-organize-attributes"],
+	"printWidth": 120,
+	"singleAttributePerLine": true,
+	"singleQuote": true,
+	"tabWidth": 4,
+	"trailingComma": "es5",
+	"useTabs": true
+}
